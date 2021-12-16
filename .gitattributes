@@ -1,8 +1,11 @@
 *.dart linguist-detectable=true
-*.java linguist-detectable=false
-*.js linguist-detectable=false
+*.j* linguist-detectable=false
 *.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.cpp linguist-detectable=false
+*.x* linguist-detectable=false
+*.c* linguist-detectable=false
 *.m linguist-detectable=false
-*.json linguist-detectable=false
+*.h linguist-detectable=false
+*.txt linguist-detectable=false
+*.gradle linguist-detectable=false
+*.plist linguist-detectable=false
+
